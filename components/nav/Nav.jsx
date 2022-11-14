@@ -1,9 +1,6 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import { IoMenuOutline, IoCloseOutline } from "react-icons/io5";
-
-import Dropdown from "./Dropdown";
-
 import useWindowSize from "../../hooks/useWindowSize";
 import Link from "next/link";
 
